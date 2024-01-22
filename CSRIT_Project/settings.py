@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-beq3rmfsxaamvgs9qaj$_prx5tz@2l_t2@v%*ds9_!j8h1qj)r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost:8080/','localhost:8000','localhost','csrit-projectss.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost:8080/','localhost:8000','localhost','csrit-projectss.onrender.com','test-zainab-front.cyberspector.xyz/']
 
 
 # Application definition
